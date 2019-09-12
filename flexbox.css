@@ -1,0 +1,26 @@
+#flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: DodgerBlue;
+    padding: 5px;
+}
+
+.2-flex-boxes {
+    background-color: whitesmoke;
+    width: 50%;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
+
+.3-flex-boxes {
+    background-color: whitesmoke;
+    width: 50%;
+    font-size: 33px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: red;
+}
